@@ -26,4 +26,5 @@ class HomePageController extends Controller
     public function getalert() {
         return view('guest.getalert');
     }
+    //
 }
